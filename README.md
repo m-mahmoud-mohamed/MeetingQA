@@ -1,4 +1,5 @@
 # Meeting Chat Bot Based on Fine-Tuned LLM
+![WhatsApp Image 2024-05-23 at 02 13 30](https://github.com/m-mahmoud-mohamed/MeetingQA/assets/117641794/57b497d2-be4e-4b8c-b119-37c615f9b469)
 
 ## About the Project
 Our project focuses on developing a meeting chat bot that utilizes a fine-tuned large language model (LLM) to assist users in interacting with their video, audio, or document files. The bot can answer questions about the uploaded content and provide concise summaries. The main components of the project include transcription, embedding, vector database storage, summarization, and a chat interface.
