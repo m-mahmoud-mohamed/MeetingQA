@@ -1,0 +1,11 @@
+pandas
+streamlit
+weaviate
+transformers
+langchain-community
+langchain-experimental
+numpy
+torch
+whisper
+pytube
+yt_dlp
