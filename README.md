@@ -35,7 +35,7 @@ The bot utilizes a fine-tuned LLM (Phi-3) to generate accurate responses based o
 ## How to Use the Bot
 ### 1-Run Program:
 ```console
-streamlit run meeting.py
+streamlit run Meeting.py
 ```
 
 ### 2-Upload File:
