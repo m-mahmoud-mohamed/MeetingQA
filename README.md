@@ -33,14 +33,18 @@ The user can chat with the bot in the context of their uploaded file or request 
 The bot utilizes a fine-tuned LLM (Phi-3) to generate accurate responses based on the context of the uploaded file.
 
 ## How to Use the Bot
-### 1-Run Program:
+### 1-Install Requirements :
+```console
+pip install -r requirements.txt
+```
+### 2-Run Program:
 ```console
 streamlit run Meeting.py
 ```
 
-### 2-Upload File:
+### 3-Upload File:
 Upload your file (video, audio, or document) through the system's UI.
-### 3-Interact with the Bot:
+### 4-Interact with the Bot:
 Choose to either chat with the bot about your uploaded file or ask the bot to summarize the file's content.
 
 
