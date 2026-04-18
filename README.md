@@ -230,7 +230,3 @@ Contributions are welcome! To contribute:
 5. Open a Pull Request
 
 ---
-
-<div align="center">
-Made with ❤️ by <a href="https://github.com/m-mahmoud-mohamed">m-mahmoud-mohamed</a>
-</div>
